@@ -20,4 +20,17 @@ h2{text-align: center;
             color:beige; 
             font-family: monospace;
             font-style: bold;}
-
+h3{font-family: "acid-green", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:floralwhite;
+  font-size:25px;
+  margin-left:20px;
+  margin-top:40px;}
+.about{margin-left: 100px;
+            margin-right: 100px;
+            margin-top: 100px;
+            text-align: center; 
+            color:beige; 
+            font-family: monospace;
+            font-style: bold;}
