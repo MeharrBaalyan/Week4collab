@@ -1,5 +1,50 @@
 body {
-  background:linear-gradient(hotpink, white, blue);
+  background:linear-gradient(hotpink, rgb(150, 211, 237), blue);
   min-height: 100vh;
 }
+h1{text-align: center;
+  font-family: "acid-green", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:floralwhite;
+  font-size: 50px;}
+h2{text-align: center;
+  font-family: monospace;
+  color: beige;
+  margin-top: -1cm;
+}
+.firstpara {margin-left: 100px;
+            margin-right: 100px;
+            margin-top: 100px;
+            text-align: center; 
+            color:beige; 
+            font-family: monospace;
+            font-style: bold;}
+h3{font-family: "acid-green", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:floralwhite;
+  font-size:25px;
+  margin-left:20px;
+  margin-top:40px;}
+.about{margin-left: 100px;
+            margin-right: 100px;
+            margin-top: 100px;
+            text-align: center; 
+            color:beige; 
+            font-family: monospace;
+            font-style: bold;}
+.conclude{margin-left: 100px;
+            margin-right: 100px;
+            margin-top: 100px;
+            text-align: center; 
+            color:beige;}
+
+.conclude h1{font-weight: 400;
+  font-style: normal;
+  color:floralwhite;
+  font-size:25px}   
+.conclude p{color:beige; 
+            font-family: monospace;
+            font-style: bold;   }      
 
